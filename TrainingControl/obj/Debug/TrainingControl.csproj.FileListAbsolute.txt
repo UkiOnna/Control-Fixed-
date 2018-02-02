@@ -1,0 +1,28 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\bin\Debug\TrainingControl.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\bin\Debug\TrainingControl.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\bin\Debug\TrainingControl.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\TrainingControl.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\TrainingControl_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\TrainingControl_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\TrainingControl.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\TrainingControl.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\TrainingControl.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\TrainingControl.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\TrainingControl\TrainingControl\obj\Debug\TrainingControl.pdb
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\TrainingControl.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\App.g.cs
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\TrainingControl_MarkupCompile.cache
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\TrainingControl.exe
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\TrainingControl.pdb
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\bin\Debug\TrainingControl.exe.config
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\bin\Debug\TrainingControl.exe
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\bin\Debug\TrainingControl.pdb
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\TrainingControl_MarkupCompile.lref
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\TrainingControl.g.resources
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\TrainingControl.Properties.Resources.resources
+C:\Users\1\Desktop\Программирование\Control-master\TrainingControl\obj\Debug\TrainingControl.csproj.GenerateResource.Cache
